@@ -1,6 +1,6 @@
     .title {
         font-family: 'roboto',sans-serif;
-        font-size: 20px;
+        font-size: 25px;
         font-weight: bold;
     }
     .recentPostViewAll {
@@ -29,6 +29,10 @@
     }
     .gap {
         padding: 0px 1rem;
+    }
+
+    .paddingY10 {
+        padding: 10px 0;
     }
 
     .paddingY30 {
@@ -103,7 +107,7 @@
     }
 
     .container {
-        margin: 0px 200px;
+        margin: 0px 240px;
     }
 
     .backgroundP2 {
